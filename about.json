@@ -74,7 +74,7 @@
 		},
 		"doom-nord": {
 			"primary": "eceff4",
-			"primary-low": "eceff4",
+			"primary_low": "eceff4",
 			"secondary": "2e3440",
 			"tertiary": "88c0d0",
 			"quaternary": "8fbcbb",
